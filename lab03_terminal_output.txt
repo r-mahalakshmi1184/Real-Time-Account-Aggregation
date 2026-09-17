@@ -1,0 +1,180 @@
+Script started on 2026-09-17 09:21:31+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="64" LINES="32"]
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit status[27mgit status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bsp/[m
+	[31mbuild.sbt[m
+	[31mderby.log[m
+	[31mlab03_terminal_output.txt[m
+	[31moutput/[m
+	[31mproject/[m
+	[31msrc/[m
+	[31mtarget/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mnano .gitignore[27mnano .gitignore
+[?2004l[?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;27H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2               .gitignore                         [1;63H(B[m[31d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[2d[?12l[?25h[?25l[30d[K[1;41H(B[0;7m*[63G(B[m[2dtarget/[3d.bsp/[4dproject/target/[5dproject/project/[6d.metals/[7d.idea/[8d*.class[9d*.log[10dderby.log[11doutput/checkpoint/[?12l[?25h[?25l[31;13H    (B[0;7mM-D(B[m DOS Format  (B[0;7mM-A(B[m Append[49G(B[0;7mM-B(B[m Backup File[32;2H(B[0;7mC(B[m Cancel       (B[0;7mM-M(B[m Mac Format  (B[0;7mM-P(B[m Prepend     (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: .gitignore                                  [30;31H(B[m[?12l[?25h[?25l[25G[1K (B[0;7m[ Writing... ](B[m[K[1;41H(B[0;7m [63G(B[m[30;24H(B[0;7m[ Wrote 10 lines ](B[m[31;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[K[32;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[?12l[?25h[11;19H[?25l[30d[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ nano .gitignore[5Pgit status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mbuild.sbt[m
+	[31mlab03_terminal_output.txt[m
+	[31moutput/[m
+	[31mproject/[m
+	[31msrc/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit remote -v[27mgit remote -v
+[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit add .[27mgit add .
+[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit status[27mgit status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mnew file:   build.sbt[m
+	[32mnew file:   lab03_terminal_output.txt[m
+	[32mnew file:   output/account_aggregations/.part-00000-051850b5-fa45-4594-84cd-40603d28a4e5-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-20566c3a-0754-44fb-8ec7-60cdd6dd1159-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-49d4c27e-886f-4624-9184-5c68de24cdb9-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-cf8ff9e8-6e18-4532-9d96-c30e7a30aa64-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-dd14e4c4-afe0-4504-9fe9-87e980d69780-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-e3af4216-6e8f-4404-a72f-1ae6bd3d5b93-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00000-f68a70ae-9e16-4f56-b52e-e025a0b4ac6f-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00034-93a20f90-679e-464b-8b98-c2bfd5a20d46-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00131-39222e33-3065-4589-84de-ed7735468fef-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00135-bdf617e9-b7b9-4ffd-bd10-58821cac2326-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/.part-00175-a43353db-0494-4db4-aca2-72b469c62f38-c000.snappy.parquet.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.0.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.1.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.2.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.3.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.4.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.5.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/.6.crc[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/0[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/1[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/2[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/3[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/4[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/5[m
+	[32mnew file:   output/account_aggregations/_spark_metadata/6[m
+	[32mnew file:   output/account_aggregations/part-00000-051850b5-fa45-4594-84cd-40603d28a4e5-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-20566c3a-0754-44fb-8ec7-60cdd6dd1159-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-49d4c27e-886f-4624-9184-5c68de24cdb9-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-cf8ff9e8-6e18-4532-9d96-c30e7a30aa64-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-dd14e4c4-afe0-4504-9fe9-87e980d69780-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-e3af4216-6e8f-4404-a72f-1ae6bd3d5b93-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00000-f68a70ae-9e16-4f56-b52e-e025a0b4ac6f-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00034-93a20f90-679e-464b-8b98-c2bfd5a20d46-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00131-39222e33-3065-4589-84de-ed7735468fef-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00135-bdf617e9-b7b9-4ffd-bd10-58821cac2326-c000.snappy.parquet[m
+	[32mnew file:   output/account_aggregations/part-00175-a43353db-0494-4db4-aca2-72b469c62f38-c000.snappy.parquet[m
+	[32mnew file:   project/build.properties[m
+	[32mnew file:   src/Transaction.scalanano[m
+	[32mnew file:   src/main/scala/AccountAggregation.scala[m
+	[32mnew file:   src/main/scala/KafkaProducer.scala[m
+	[32mnew file:   src/main/scala/Transaction.scala[m
+	[32mnew file:   src/transaction.scala[m
+
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit reset[27mgit reset
+[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mgit status[27mgit status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mbuild.sbt[m
+	[31mlab03_terminal_output.txt[m
+	[31moutput/[m
+	[31mproject/[m
+	[31msrc/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mfind src -type f[27m[7m [27m[7m-maxdepth 3 -print[27m[A]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ find src -type f -maxdepth 3 -print
+[?2004lfind: warning: you have specified the global option -maxdepth after the argument -type, but global options are not positional, i.e., -maxdepth affects tests specified before it as well as those specified after it.  Please specify global options before other arguments.
+src/transaction.scala
+src/main/scala/KafkaProducer.scala
+src/main/scala/AccountAggregation.scala
+src/main/scala/Transaction.scala
+src/Transaction.scalanano
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mrm src/transacti[27m[7mo[27m[7mn.scala src/Transaction.scalanano[27m[A]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ rm src/transaction.scala src/Transaction.scalanano
+[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ rm src/transaction.scala src/Transaction.scalanano[A]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ find src -type f [15P-maxdepth 3 -print[A]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [6Pgit status
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Presetstatus
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mbuild.sbt[m
+	[31mlab03_terminal_output.txt[m
+	[31moutput/[m
+	[31mproject/[m
+	[31msrc/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ nano .gitignore
+[?2004l[?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;26H(B[0;7m[ Reading... ](B[m[30;24H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 7.2               .gitignore                         [1;63H(B[m[31d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[2dtarget/[3d.bsp/[4dproject/target/[5dproject/project/[6d.metals/[7d.idea/[8d*.class[9d*.log[10dderby.log[11doutput/checkpoint/[2d[?12l[?25h[?25l[31;13H    (B[0;7mM-D(B[m DOS Format  (B[0;7mM-A(B[m Append[49G(B[0;7mM-B(B[m Backup File[32;2H(B[0;7mC(B[m Cancel       (B[0;7mM-M(B[m Mac Format  (B[0;7mM-P(B[m Prepend     (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: .gitignore                                  [30;31H(B[m[?12l[?25h[?25l[25G[1K (B[0;7m[ Writing... ](B[m[K[1;63H[30;24H(B[0;7m[ Wrote 10 lines ](B[m[31;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[K[32;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[?12l[?25h[2d[?25l[30d[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ nano .gitignore[5Pgit status
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mbuild.sbt[m
+	[31mlab03_terminal_output.txt[m
+	[31moutput/[m
+	[31mproject/[m
+	[31msrc/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ [7mcat .gitignore[27mcat .gitignore
+[?2004ltarget/
+.bsp/
+project/target/
+project/project/
+.metals/
+.idea/
+*.class
+*.log
+derby.log
+output/checkpoint/
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ cat .gitignore[4Pgit statusnano .gitignore
+[?2004l[?2004h[?1049h[22;0;0t[1;32r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[30;26H(B[0;7m[ Reading... ](B[m[30;24H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 7.2               .gitignore                         [1;63H(B[m[31d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[32d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[2dtarget/[3d.bsp/[4dproject/target/[5dproject/project/[6d.metals/[7d.idea/[8d*.class[9d*.log[10dderby.log[11doutput/checkpoint/[2d[?12l[?25h[?25l[1;41H(B[0;7m*[63G(B[m[2;30r[30;1H
+[1;32r[29;1H[K[2d[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[2;30r[30;1H
+[1;32r[2;1H[?12l[?25h[?25l[K[?12l[?25h[?25l[30;23H(B[0;7m[ Nothing was cut ](B[m[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30;42H[?12l[?25h[2d[?25l[30d[K[2dcat > .gitignore <<'EOF'[3dtarget/[4d.bsp/[5dproject/[6d.metals/[7d.idea/[8d*.class[9d*.log[10dderby.log[11doutput/[12dEOF[?12l[?25h[?25l[31;13H    (B[0;7mM-D(B[m DOS Format  (B[0;7mM-A(B[m Append[49G(B[0;7mM-B(B[m Backup File[32;2H(B[0;7mC(B[m Cancel       (B[0;7mM-M(B[m Mac Format  (B[0;7mM-P(B[m Prepend     (B[0;7m^T(B[m Browse[K[30d(B[0;7mFile Name to Write: .gitignore                                  [30;31H(B[m[?12l[?25h[?25l[25G[1K (B[0;7m[ Writing... ](B[m[K[1;41H(B[0;7m [63G(B[m[30;24H(B[0;7m[ Wrote 11 lines ](B[m[31;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[49G(B[0;7m^T(B[m Execute[K[32;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste    (B[0;7m^J(B[m Justify[?12l[?25h[12;4H[?25l[30d[J[32d[?12l[?25h[32;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00m$ nano .gitignore[1Pcat[C[C[C[C[C[C[C[C[C[C[C
+[?2004lcat > .gitignore <<'EOF'
+target/
+.bsp/
+project/
+.metals/
+.idea/
+*.class
+*.log
+derby.log
+output/
+EOF
+[?2004h]0;maha@Maha-8411: ~/Real-Time-Account-Aggregation[01;32mmaha@Maha-8411[00m:[01;34m~/Real-Time-Account-Aggregation[00

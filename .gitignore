@@ -1,0 +1,11 @@
+cat > .gitignore <<'EOF'
+target/
+.bsp/
+project/
+.metals/
+.idea/
+*.class
+*.log
+derby.log
+output/
+EOF
