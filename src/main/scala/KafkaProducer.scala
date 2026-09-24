@@ -1,7 +1,5 @@
 import org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}
-import java.util.Properties
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
+
 
 object KafkaProducerApp {
 
